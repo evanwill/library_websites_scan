@@ -1,0 +1,15 @@
+university,university_url,university_platform,library_url,library_platform,same?,date_scanned
+Western Washington University,https://www.wwu.edu/,Drupal 8,https://library.wwu.edu/,Drupal 7,no-older,2020-01-27
+University of Washington,https://www.washington.edu/,WordPress,https://www.lib.washington.edu/,plone CMS,no,2020-01-27
+Central Washington University,http://www.cwu.edu/,Drupal 7,https://www.lib.cwu.edu/,Drupal 7,yes,2020-01-27
+Eastern Washington University,https://www.ewu.edu/,WordPress,https://www.ewu.edu/library/,WordPress,yes,2020-01-27
+Washington State University,https://wsu.edu/,WordPress,https://libraries.wsu.edu/,WordPress,yes,2020-01-27
+Eastern Oregon University,https://www.eou.edu/,WordPress,https://library.eou.edu/,WordPress,yes,2020-01-27
+Southern Oregon University,https://sou.edu/,WordPress,https://hanlib.sou.edu/,custom (using PHP),no,2020-01-27
+Oregon Institute of Technology,https://www.oit.edu/,Sitefinity CMS (ASP.NET),https://www.oit.edu/libraries,Sitefinity CMS (ASP.NET),yes,2020-01-27
+Oregon State University,https://oregonstate.edu/,Drupal 8,https://library.oregonstate.edu/,Drupal 7,no-older,2020-01-27
+University of Oregon,https://www.uoregon.edu/,Drupal 7,https://library.uoregon.edu/,Drupal 7,yes,2020-01-27
+Western  Oregon University,https://wou.edu/,WordPress,https://library.wou.edu/,WordPress,yes,2020-01-27
+Portland State University,https://www.pdx.edu/,Drupal 7,https://library.pdx.edu/,WordPress,no,2020-01-27
+Oregon Health & Science University,https://www.ohsu.edu/,Drupal 8,https://www.ohsu.edu/library,Drupal 8,yes,2020-01-27
+University of Idaho ,https://www.uidaho.edu/,SiteCore CMS,https://www.lib.uidaho.edu/,custom (static website generated using Jekyll),no,2020-01-27
