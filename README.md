@@ -1,6 +1,9 @@
 # library_websites_scan
 
-This repository shares a small scan of library website platforms conducted in Jan 2020. 
+This repository shares a small scan of library website platforms originally conducted in Jan 2020. 
+The first release can be found at [doi:zenodo.3653184](http://doi.org/10.5281/zenodo.3653184) or [v1.0 release](https://github.com/evanwill/library_websites_scan/releases/tag/v1.0).
+
+The scan was repeated Sep 2025.
 
 ## Method
 
